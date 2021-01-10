@@ -11,7 +11,7 @@
 
 <p>
   <strong> <h1>BIG SUR 11.1 </h1></strong><br>
-  <b>WORKS:</b><br>
+  <b>WORKS:</b>
   <ul>
     <li>iGPU UHD 620 Works with HDMI output and audio from HDMI output</li>
     <li>Audio Built-in and Microphone</li>
