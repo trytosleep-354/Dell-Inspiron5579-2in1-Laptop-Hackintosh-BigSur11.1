@@ -1,7 +1,7 @@
 <b> HACKINTOSH BIG SUR 11.1 ON DELL INSPIRON 5579 2 in 1 Laptop Opencore 0.6.4</b>
 
 <ul>
-  <h1><strong>SPESIFICATIONS</strong></h1>
+  <strong><h1>SPESIFICATIONS</h1></strong>
   <li>Processor : Intel core i5 8250U (KabyLake Refresh)</li>
   <li>RAM       : 16GB (Upgraded 2x8GB) Kingston</li>
   <li>iGPU      : Intel UHD 620</li>
@@ -39,8 +39,9 @@
   <li>ISSUES    : Suddenly Shutdown when on Battery, but Running very well when plugged</li>
   <li>ISSUES    : Processor Detect i7 not i5 in About this Mac, there is no effect on performance</li>
   <li>NOT TESTED: Touchscreen, I dont want it so I never search of it </li>
+</ul>
 <br>
-  1. for first time use, you have to add <b>-v</b> in <i>boot flag</i> to see error when boot (if it wont boot) go to NVRAM - boot-args
-  2. Default, I use dual-monitor, so I added <b>agdpmod=vit9696</b> you can delete this boot-args if you just using single monitor
+  1. for first time use, you have to add <b>-v</b> in <i>boot flag</i> to see error when boot (if it wont boot) go to NVRAM - boot-args <br>
+  2. Default, I use dual-monitor, so I added <b>agdpmod=vit9696</b> you can delete this boot-args if you just using single monitor<br>
                                            
   
